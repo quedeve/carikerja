@@ -474,4 +474,17 @@ module.exports = [
     tech_stack: ["Laravel", "Codeigniter", "React",, "Flutter", "WordPress"],
     hired: false,
   },
+  {
+    name: "Luthfi Tri Atmaja",
+    status: "Fulltime",
+    role: "Full Stack Developer",
+    location: "Wonosobo",
+    social_media: {
+      Linkedin: "https://github.com/luthfiampas",
+      Github: "https://github.com/luthfiampas/luthfi-tri-atmaja",
+      Website: 'https://fadhilaabiyyu.my.id'
+    },
+    tech_stack: ["C#", "ASP.NET", "WPF", "Kotlin", "React", "ReactJS"],
+    hired: false,
+  },
 ];
